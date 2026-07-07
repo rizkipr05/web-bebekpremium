@@ -24,7 +24,7 @@
   <!-- Typography -->
   <g transform="translate(115, 75)">
     <text font-family="'Outfit', -apple-system, sans-serif" font-weight="900" font-size="52" fill="#111827">BEBEK</text>
-    <text x="180" font-family="'Outfit', -apple-system, sans-serif" font-weight="300" font-size="52" fill="url(#textGrad)">AL-RIZKY</text>
+    <text x="205" font-family="'Outfit', -apple-system, sans-serif" font-weight="300" font-size="52" fill="url(#textGrad)">AL-RIZKY</text>
     <text x="5" y="25" font-family="'Outfit', -apple-system, sans-serif" font-weight="600" font-size="14" fill="#6B7280" letter-spacing="5" text-transform="uppercase">Cita Rasa Autentik</text>
   </g>
 </svg>
